@@ -6,10 +6,14 @@ module.exports = {
       colors: {
         brand: {
           black: "#000000",
-          yellow: "#FFD800",
-          red: "#FF0000"
-        }
-      }
+          yellow: "#FFFD80",
+          red: "#FF0080",
+        },
+        gradientStart: "#F5E8FF",
+        gradientMiddle: "#E6F0FF",
+        gradientEnd: "#E4F9F5",
+        accent: "#A5D6D1",
+      },
     },
   },
   plugins: [],
