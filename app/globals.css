@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* RTL support */
+html {
+  direction: rtl;
+}
+
+:root {
+  --brand-black: #000000;
+  --brand-yellow: #FFD800;
+  --brand-red: #FF0000;
+}
+
+body {
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  background: #fff;
+  color: #000;
+}

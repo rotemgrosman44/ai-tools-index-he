@@ -1,0 +1,415 @@
+[
+  {
+    "name": "ChatGPT",
+    "category": "מודלי שפה וכתיבה יצירתית",
+    "description": "להורדת אפליקציה ל-iOS ולאתר",
+    "url": "https://chat.openai.com",
+    "logo": ""
+  },
+  {
+    "name": "Perplexity",
+    "category": "מודלי שפה וכתיבה יצירתית",
+    "description": "מנוע חיפוש מבוסס בינה מלאכותית עם רפרנסים וציטוטים",
+    "url": "https://www.perplexity.ai/",
+    "logo": ""
+  },
+  {
+    "name": "Gemini",
+    "category": "מודלי שפה וכתיבה יצירתית",
+    "description": "חיבור לכלי גוגל, קריאת תמונות, שילוב עם Drive",
+    "url": "https://gemini.google.com/app",
+    "logo": ""
+  },
+  {
+    "name": "Claude",
+    "category": "מודלי שפה וכתיבה יצירתית",
+    "description": "כתיבה ועריכה מתקדמת, ניתוח טקסטים, תרגום מקצועי",
+    "url": "https://claude.ai/new",
+    "logo": ""
+  },
+  {
+    "name": "Google NotebookLM",
+    "category": "מודלי שפה וכתיבה יצירתית",
+    "description": "סיכום ולמידת מידע מבוסס AI, הפקת דוחות מקצועיים",
+    "url": "https://notebooklm.google/",
+    "logo": ""
+  },
+  {
+    "name": "GOOGLE AI STUDIO",
+    "category": "פלטפורמת מפתחים פשוטה ומגוונת",
+    "description": "אימון מודל - FINE TUNING, יצירת תמונות , עריכת תמונות, עוזר קולי ומצלמה - עזרה בתפעול כל אתר",
+    "url": "Google AI Studio",
+    "logo": ""
+  },
+  {
+    "name": "Microsoft Co-Pilot",
+    "category": "מודלי שפה וכתיבה יצירתית",
+    "description": "אינטגרציה חכמה עם Office 365, ניתוח מידע וייעול תהליכי עבודה",
+    "url": "https://www.microsoft.com/en-us/microsoft-365/copilot",
+    "logo": ""
+  },
+  {
+    "name": "DeepSeek Chat",
+    "category": "מודלי שפה וכתיבה יצירתית",
+    "description": "צ'אטבוט מתקדם מבוסס AI",
+    "url": "https://chat.deepseek.com/",
+    "logo": ""
+  },
+  {
+    "name": "GenSpark",
+    "category": "",
+    "description": "מודל שפה חכם עם יכולות מתקדמות",
+    "url": "https://www.genspark.ai/",
+    "logo": ""
+  },
+  {
+    "name": "GAMMA.APP",
+    "category": "הכלי הכי מומלץ ליצירת מצגות",
+    "description": "paste in text",
+    "url": "https://gamma.app/",
+    "logo": ""
+  },
+  {
+    "name": "Microsoft Designer",
+    "category": "יצירת תמונות ועיצובים גרפיים",
+    "description": "יצירת תמונות גרפיות ואלמנטים עיצוביים מותאמים אישית, כולל אינטגרציה עם כלי מיקרוסופט",
+    "url": "https://designer.microsoft.com/",
+    "logo": ""
+  },
+  {
+    "name": "Leonardo.AI",
+    "category": "יצירת תמונות ועיצובים גרפיים",
+    "description": "עריכת תמונות, הוספת אלמנטים, התאמה אישית לעיצוב גרפי",
+    "url": "https://leonardo.ai/",
+    "logo": ""
+  },
+  {
+    "name": "REVE",
+    "category": "יצירת תמונות מכל סוג בקלות ופשטות עם טקסט מדויק באנגלית חינם",
+    "description": "קלה ופשוטה",
+    "url": "https://preview.reve.art/",
+    "logo": ""
+  },
+  {
+    "name": "Krea",
+    "category": "יצירת תמונות ועיצובים גרפיים",
+    "description": "שיפור תמונות AI, יצירת תמונות ועוד המון פיצ'רים",
+    "url": "https://www.krea.ai/",
+    "logo": ""
+  },
+  {
+    "name": "Ideogram",
+    "category": "יצירת תמונות ועיצובים גרפיים",
+    "description": "שילוב טקסט בתוך תמונות גרפיות",
+    "url": "https://ideogram.ai/",
+    "logo": ""
+  },
+  {
+    "name": "Flux",
+    "category": "יצירת תמונות ועיצובים גרפיים",
+    "description": "יצירת תמונות ריאליסטיות עם אפשרויות מתקדמות",
+    "url": "https://replicate.com/adirik/flux-cinestill",
+    "logo": ""
+  },
+  {
+    "name": "DZine",
+    "category": "הוספת פילטרים לתמונות שלכם בכל סגנון דיסני, מאיור, מקצועי לעבודה",
+    "description": "תיקונים מהירים בתמונות, יצירת וריאציות לצרכי קמפיינים עסקיים",
+    "url": "DZine",
+    "logo": ""
+  },
+  {
+    "name": "MidJourney",
+    "category": "יצירת תמונות מקצועיות לדיוק אומנותי בתשלום בלבד מנוי חודש 8$",
+    "description": "יצירת אומנות דיגיטלית, איור מתקדם, יצירת סצנות מורכבות",
+    "url": "MidJourney",
+    "logo": ""
+  },
+  {
+    "name": "Stable Diffusion",
+    "category": "",
+    "description": "יצירת אומנות ריאליסטית או אומנותית תוך התאמה אישית רחבה",
+    "url": "Stable Diffusion",
+    "logo": ""
+  },
+  {
+    "name": "DreamStudio",
+    "category": "ממשק מתקדם של Stable Diffusion ליצירת תמונות ריאליסטיות ומתוחכמות.",
+    "description": "יצירת תמונות בסגנון ריאליסטי ואומנותי מתקדם",
+    "url": "DreamStudio",
+    "logo": ""
+  },
+  {
+    "name": "NightCafe",
+    "category": "פלטפורמה אינטואיטיבית עם דגש על יצירת אומנות דיגיטלית וסגנונות מוכרים.",
+    "description": "אומנות דיגיטלית מבוססת AI, תוצאות מהירות ונגישות",
+    "url": "NightCafe",
+    "logo": ""
+  },
+  {
+    "name": "Remove.bg",
+    "category": "כלי להסרת רקע בתמונות בלחיצת כפתור. מתאים לשימוש בתוכנות עריכה פשוטות.",
+    "description": "הסרת רקעים והכנת תמונות לשימושים שיווקיים ועיצוביים",
+    "url": "https://Remove.bg",
+    "logo": ""
+  },
+  {
+    "name": "Immersity",
+    "category": "כלי להנפשת תלת-מימד בתמונות תוך שמירה על ריאליזם, מאפשר הוספת עומק ותזוזה.",
+    "description": "הנפשת תמונות תלת-מימדיות, יצירת עומק והוספת תנועה",
+    "url": "Immersity",
+    "logo": ""
+  },
+  {
+    "name": "Clipdrop",
+    "category": "גן משחקים שלם לעריכת תמונות וגרפיקה מבוססת AI (לא הכל חינמי).",
+    "description": "עריכת תמונות מתקדמת, שיפור תמונות, החלפת רקעים ואלמנטים",
+    "url": "Clipdrop",
+    "logo": ""
+  },
+  {
+    "name": "ILOVEIMG",
+    "category": "כלי לניקוי תמונות, הסרת והוספת אלמנטים בקלות עם בינה מלאכותית.",
+    "description": "ניקוי תמונות, תיקון פגמים, עריכת אלמנטים בתמונות",
+    "url": "ILOVEIMG",
+    "logo": ""
+  },
+  {
+    "name": "InstantID",
+    "category": "פלטפורמה מבוססת קוד פתוח המאפשרת להפוך את עצמכם לכל דמות, מתאים במיוחד לעריכת תמונות.",
+    "description": "יצירת דמויות ריאליסטיות, התאמה אישית של תמונות AI",
+    "url": "InstantID",
+    "logo": ""
+  },
+  {
+    "name": "Photomaker",
+    "category": "כלי לעריכת תמונות מהירה, מאפשר יצירת דמות מכל תמונה קיימת. עשוי להיות לא יציב בעומס.",
+    "description": "יצירת דמויות ויזואליות לשימושים יצירתיים ושיווקיים",
+    "url": "https://huggingface.co/spaces/TencentARC/PhotoMaker",
+    "logo": ""
+  },
+  {
+    "name": "PIXELCUT",
+    "category": "תיקון תמונות",
+    "description": "מחיקה של אלמנטים ספציפיים מתמונה, הוספת אלמנטים",
+    "url": "PIXELCUT",
+    "logo": ""
+  },
+  {
+    "name": "CUPCUT",
+    "category": "עריכת וידאו ויצירת סרטונים מקצועיים",
+    "description": "",
+    "url": "https://www.capcut.com/",
+    "logo": ""
+  },
+  {
+    "name": "InVideo AI",
+    "category": "עריכת וידאו ויצירת סרטונים מקצועיים",
+    "description": "יצירת סרטונים מקצועיים עם בינה מלאכותית",
+    "url": "https://www.clipchamp.com/",
+    "logo": ""
+  },
+  {
+    "name": "Veed.io",
+    "category": "עריכת וידאו ויצירת סרטונים מקצועיים",
+    "description": "עריכת וידאו מתקדמת אונליין עם ממשק פשוט ונוח",
+    "url": "https://ai.invideo.io/",
+    "logo": ""
+  },
+  {
+    "name": "פרומפטים מקצועיים לשיווק",
+    "category": "פרומפטים מקצועיים לשימוש ראשוני",
+    "description": "קובץ פרומפטים מקצועיים לשיווק",
+    "url": "https://www.veed.io/",
+    "logo": ""
+  },
+  {
+    "name": "להורדת פתקים עם פרומפטים התחלתיים מקצועיים לכל צורך",
+    "category": "פרומפטים מקצועיים לשימוש ראשוני",
+    "description": "מאגר פתקים עם פרומפטים התחלתיים לכל צורך",
+    "url": "https://docs.google.com/document/d/1D95WMeN6TRXfN_wgUviHSQhDgR1FezAWopFYTld_WRg/edit?usp=sharing",
+    "logo": ""
+  },
+  {
+    "name": "וידא והנפשה",
+    "category": "תיאור קצר ובידול",
+    "description": "מחיר / טוקנים חינמיים",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "SORA",
+    "category": "מודל יצירת וידאו פשוט ל\"שוטים של אווירה\", לסרטוני תדמית וקליפים. לא מומלץ לעבודות מאוד מדויקות (מוצרים/אנשים ספציפיים) ולא יוצר דמויות ריאליסטיות.",
+    "description": "כלול בחבילת ChatGPT Plus (כ־20$ לחודש), ללא טוקנים חינמיים זמינים.",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "RUNWAY ML",
+    "category": "פלטפורמה מקצועית לעריכת וידאו מבוססת AI. מאפשרת הנפשה משולבת אפקטים, הוספת פילטרים ושינויי רקע. אידיאלי לפרויקטים מורכבים יותר.",
+    "description": "תוכנית חינמית בסיסית (כמות יצוא ורינדור מוגבלת). תוכניות בתשלום מגוונות - טווח 15$–35$ לחודש.",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "KLING.AI",
+    "category": "כלי חדשני המדגיש \"החלפת סצנות\" ותנועה חלקה בין פריימים. מיועד למשתמשים שמחפשים קטעי מעבר או וידאו קצר.",
+    "description": "מודל תמחור משתנה (פר מנוי חודשי או פר רינדור). אין מידע על טוקנים חינמיים; לעיתים יש תקופת ניסיון קצרה.",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "LUMA LABS",
+    "category": "מומחית בהמרת תמונות ואלמנטים דו־ממדיים לתלת־ממד ולהנפשה. מציעה כלים ליצירת סרטונים עם תנועה חלומית או תצוגה סינמטית.",
+    "description": "חבילת בסיס עם מגבלת קליפים (לעיתים כמות רינדורים חינמית בודדת). תוכניות בתשלום להרחבה ולתוספות מקצועיות.",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "MINIMAX",
+    "category": "פלטפורמה ידידותית למתחילים ליצירת אנימציות מטקסט או מתמונות, עם ממשק ברור ופשוט.",
+    "description": "חבילה חינמית מצומצמת (לעיתים מתחדשת אחת לחודש). שדרוגים בתשלום לחבילה מתקדמת עם יותר אפשרויות רינדור.",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "FREEPIC",
+    "category": "ריכוז פלטפורמות וגרפיקות במקום אחד (כלי \"אינדקס\" בתשלום). מכיל גם מאגר תמונות ואפשרות הפניה לכלי אנימציה חיצוניים.",
+    "description": "מודל מנוי חודשי בסביבות 10$–15$ לחודש עם גישה למאגר הרחב. אין טוקנים חינמיים; מתן רישיונות בהתאם לתוכנית.",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Pika Labs",
+    "category": "כלי מהיר ליצירת אנימציות קצרות המבוססות על טקסט ותמונה, בדגש על ממשק נוח וביצועים גבוהים לרינדורים מהירים של קליפים קצרים.",
+    "description": "גרסה חינמית בסיסית עם כמות מסוימת של פרויקטים בחודש. יש מסלולי תשלום גבוהים יותר לרינדור מתקדם ולמשך קליפים ארוך יותר.",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "PIXVERSE",
+    "category": "עוד פלטפורמה סבירה שאפשר לנסות",
+    "description": "טוקנים מתחדשים כל חודש",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "",
+    "category": "",
+    "description": "תמלולי שיחות , פגישת פיזיות זום הרצאות ועוד",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "תמלול ZOOM/ פגישות פיזיות הרצאות וסרטוני YOUTUBE",
+    "category": "Superwhisper",
+    "description": "תמלול פגישות, הרצאות ושיחות פיזיות באופן מהיר ומדויק",
+    "url": "https://superwhisper.com/",
+    "logo": ""
+  },
+  {
+    "name": "תמלול ZOOM/ פגישות פיזיות הרצאות וסרטוני YOUTUBE",
+    "category": "Vibe",
+    "description": "תמלול וניתוח תכנים מפגישות",
+    "url": "https://github.com/thewh1teagle/vibe/discussions/27",
+    "logo": ""
+  },
+  {
+    "name": "העלאת קובץ לתמלול עד חצי שעה אוטואמטי אונליין",
+    "category": "VIBE- פרויקט עברית",
+    "description": "",
+    "url": "https://www.ivrit.ai/he/174-2/",
+    "logo": ""
+  },
+  {
+    "name": "תמלול ZOOM/ פגישות פיזיות הרצאות וסרטוני YOUTUBE",
+    "category": "Notta",
+    "description": "תמלול שיחות מוקלטות, הרצאות וסרטונים",
+    "url": "https://app.notta.ai/",
+    "logo": ""
+  },
+  {
+    "name": "יצירת קריינות לסרטונים ולאווטארים קולות מקצועיים אנגלית בלבד",
+    "category": "Eleven Labs",
+    "description": "הפקת קריינות טבעית מבוססת AI",
+    "url": "https://elevenlabs.io/",
+    "logo": ""
+  },
+  {
+    "name": "יצירת קריינות לסרטונים ולאווטארים קולות מקצועיים גם בעברית",
+    "category": "GOOGLE AI STUDIO",
+    "description": "(ניתן להקליט גם דו שיח בסגנון פודקאסט את סצינה)",
+    "url": "GOOGLE AI STUDIO",
+    "logo": ""
+  },
+  {
+    "name": "יצירת קריינות לסרטונים ולאווטארים קולות מקצועיים גם בעברית",
+    "category": "OPEN AI FM",
+    "description": "הפקת קריינות טבעית מבוססת AI בעברית (קול אחד בכל פעם)",
+    "url": "OPENAI FM",
+    "logo": ""
+  },
+  {
+    "name": "מסדר עברית מימין לשמאל",
+    "category": "CHATGPT TOOLBOX",
+    "description": "אפשרות לשמירת פרומפטים ויצירת תיקיות",
+    "url": "CHATGPT TOOLBOX",
+    "logo": ""
+  },
+  {
+    "name": "מתקן הגהה ודקדוק אוטומאטי מאנגלית",
+    "category": "תיקון בקליק לפני שלוחצים GENERATE",
+    "description": "",
+    "url": "QUILBOT",
+    "logo": ""
+  },
+  {
+    "name": "SUNO",
+    "category": "יצירת שירים בעברית ובאנגלית בכל סגנון",
+    "description": "קטעים מוסיקליים לסרטונים, שירים מטקסטים שהכנתם מטקסט לשיר",
+    "url": "SUNO",
+    "logo": ""
+  },
+  {
+    "name": "UDIO",
+    "category": "יצירת שירים בעברית ובאנגלית בכל סגנון",
+    "description": "קטעים מוסיקליים לסרטונים, שירים מטקסטים שהכנתם מטקסט לשיר",
+    "url": "UDIO",
+    "logo": ""
+  },
+  {
+    "name": "תוכנת אונליין הכי פשוטה והכי פחות מדויקת",
+    "category": "החלפת פנים",
+    "description": "אדם אחד או מספר אנשים",
+    "url": "aifaceswap",
+    "logo": ""
+  },
+  {
+    "name": "MINIPC FACEFUSION",
+    "category": "החלפת פנים",
+    "description": "אדם אחד או מספר אנשים",
+    "url": "mini pc",
+    "logo": ""
+  },
+  {
+    "name": "swapmyface.app",
+    "category": "החלפת פנים פשוטה מאוד",
+    "description": "",
+    "url": "https://swapmyface.app",
+    "logo": ""
+  },
+  {
+    "name": "swapface.org",
+    "category": "תוכנה להורדה למחשב באיכות גבוהה",
+    "description": "עד 10 החלפות פנים ביום",
+    "url": "תוכנה למחשב",
+    "logo": ""
+  },
+  {
+    "name": "PICSI.AI",
+    "category": "פלטפורמה מקצועית בתשלום",
+    "description": "",
+    "url": "פיקסי AI",
+    "logo": ""
+  }
+]
